@@ -1,6 +1,6 @@
 # Folders
 output/
-project_files/**/.vs
+project_files/.vs
 *.pdb
 *.asi
 *.ilk
